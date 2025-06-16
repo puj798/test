@@ -1,0 +1,15 @@
+{
+    "name": "puj/test",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Puj\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "puj"
+        }
+    ],
+    "require": {}
+}
